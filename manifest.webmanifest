@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "植物｜運輸與光合",
+  "short_name": "運輸與光合",
+  "description": "探索植物水分與養分運輸、光合作用與呼吸作用、氣孔與蒸散。",
+  "lang": "zh-TW",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#eef5f0",
+  "theme_color": "#296d5a",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
